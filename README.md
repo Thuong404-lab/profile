@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Nguyễn Tiến Thương]</h1>
 
 <p align="center">
-  <b>Software Engineering Student • Web Developer</b>
+  <b>Software Engineering Student • Back-End Developer</b>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,git" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git" />
 </p>
 
 ---
@@ -35,5 +35,5 @@
 
 ## 📫 Contact
 
-* Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* GitHub: https://github.com/yourusername
+* Email: [nhoc2323@gmail.com](nhoc2323@gmail.com)
+* GitHub: https://github.com/Thuong404-lab
