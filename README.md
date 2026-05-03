@@ -25,6 +25,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="90"/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+Developer;Java+%7C+Spring+Boot;RESTful+API+Builder" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="90"/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
+</p>
+
 ---
 
 ## 🛠 Technical Skills
