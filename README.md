@@ -8,11 +8,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+Developer;Java+%7C+Spring+Boot;RESTful+API+Builder" />
 </p>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="90"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Thuong404-lab&show_icons=true&theme=tokyonight"/>
-</p>
+
 
 
 ---
