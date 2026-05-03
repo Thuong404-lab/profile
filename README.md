@@ -10,10 +10,22 @@
 
 ---
 
-##  Tech Stack
+## 🛠 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git"  />
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab" />
 </p>
 
 ---
