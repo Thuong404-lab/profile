@@ -8,10 +8,11 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+
+</p>
+<p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+Developer;Java+%7C+Spring+Boot;RESTful+API+Builder" />
 </p>
-
-
 
 ---
 
