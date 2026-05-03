@@ -4,36 +4,13 @@
   <b>Software Engineering Student • Back-End Developer</b>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header"/>
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="80"/><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="90"/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+Developer;Java+%7C+Spring+Boot;RESTful+API+Builder" />
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="90"/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
-</p>
 
 ---
 
