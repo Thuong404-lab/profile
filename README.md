@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="50"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
